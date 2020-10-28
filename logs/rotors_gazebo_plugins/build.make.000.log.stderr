@@ -1,0 +1,28 @@
+In file included from [01m[K/opt/ros/kinetic/include/ros/assert.h:35:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/common.h:36[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/callback_queue_interface.h:39[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/callback_queue.h:53[m[K,
+                 from [01m[K/home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:35[m[K,
+                 from [01m[K/home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:21[m[K:
+[01m[K/home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:[m[K In member function ‘[01m[Kvoid gazebo::GazeboMotorModel::VelocityCallback(const ActuatorsConstPtr&)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Kstd::vector<double>::size_type {aka long unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:266:24:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_FATAL(...) ROS_LOG(::ros::console::levels::Fatal, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                        ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/assert.h:134:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_FATAL[m[K’
+       ROS_FATAL(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:128:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_ASSERT_MSG[m[K’
+   ROS_ASSERT_MSG(rot_velocities->angular_velocities.size() > motor_number_,
+[01;32m[K   ^[m[K

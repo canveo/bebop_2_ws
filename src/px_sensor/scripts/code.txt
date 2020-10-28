@@ -1,0 +1,17 @@
+# publicar punto
+            #revisar
+            #https://github.com/canveo/bebop_scripts/blob/master/hover.py
+            
+            # https://github.com/Amoki/bebop-follow-qr-code/blob/6fe2386f31dfbf9c1c1f96c9edf77980cd925056/src/bebop_controller/src/scripts/tracker.py
+        #     linear = Vector3(
+        #     x=linear_x,  # pitch (angle)
+        #     y=linear_y,  # roll (angle) - => droite AND + => gauche
+        #     z=linear_z   # vertical velocity
+        # )
+        # angular = Vector3(
+        #     x=0,
+        #     y=0,
+        #     z=angular_z  # only Z is useful (rotate axis : + = counter-clockwise, - = clockwise) -1 to 1
+        # )
+
+        # message = Twist(linear=linear, angular=angular)

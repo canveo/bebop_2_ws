@@ -1,0 +1,11 @@
+[ 12%] Built target bebop_driver_gencfg
+[35m[1mScanning dependencies of target bebop[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/bebop.dir/src/bebop.cpp.o[0m
+[ 37%] [32m[1mLinking CXX shared library /home/carlos/bebop_ws/devel/.private/bebop_driver/lib/libbebop.so[0m
+[ 50%] Built target bebop
+[35m[1mScanning dependencies of target bebop_driver_nodelet[0m
+[ 62%] [32m[1mLinking CXX executable /home/carlos/bebop_ws/devel/.private/bebop_driver/lib/bebop_driver/bebop_driver_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/bebop_driver_nodelet.dir/src/bebop_driver_nodelet.cpp.o[0m
+[ 87%] Built target bebop_driver_node
+[100%] [32m[1mLinking CXX shared library /home/carlos/bebop_ws/devel/.private/bebop_driver/lib/libbebop_driver_nodelet.so[0m
+[100%] Built target bebop_driver_nodelet

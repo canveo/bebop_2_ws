@@ -1,0 +1,1 @@
+/home/carlos/bebop_ws/devel/.private/px_sensor/share/px_sensor/cmake/px_sensorConfig.cmake

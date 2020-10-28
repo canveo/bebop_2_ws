@@ -1,0 +1,1 @@
+/home/carlos/bebop_ws/devel/.private/control_manual/lib/pkgconfig/control_manual.pc

@@ -1,0 +1,11 @@
+(cl:defpackage planning_msgs-msg
+  (:use )
+  (:export
+   "<POINTCLOUDWITHPOSE>"
+   "POINTCLOUDWITHPOSE"
+   "<POLYNOMIALSEGMENT4D>"
+   "POLYNOMIALSEGMENT4D"
+   "<POLYNOMIALTRAJECTORY4D>"
+   "POLYNOMIALTRAJECTORY4D"
+  ))
+

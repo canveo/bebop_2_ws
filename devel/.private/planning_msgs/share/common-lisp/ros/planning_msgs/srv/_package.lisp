@@ -1,0 +1,10 @@
+(cl:defpackage planning_msgs-srv
+  (:use )
+  (:export
+   "PLANNERSERVICE"
+   "<PLANNERSERVICE-REQUEST>"
+   "PLANNERSERVICE-REQUEST"
+   "<PLANNERSERVICE-RESPONSE>"
+   "PLANNERSERVICE-RESPONSE"
+  ))
+

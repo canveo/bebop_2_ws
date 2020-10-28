@@ -1,0 +1,8 @@
+prefix=/home/carlos/bebop_ws/devel/.private/control_manual
+
+Name: control_manual
+Description: Description of control_manual
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

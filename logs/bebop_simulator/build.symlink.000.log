@@ -1,0 +1,12 @@
+Symlinking /home/carlos/bebop_ws/devel/lib/libextendedKalmanFilter.so
+Symlinking /home/carlos/bebop_ws/devel/lib/libwaypoint_filter.so
+Symlinking /home/carlos/bebop_ws/devel/lib/libposition_controller.so
+Symlinking /home/carlos/bebop_ws/devel/lib/libposition_controller_with_bebop.so
+Symlinking /home/carlos/bebop_ws/devel/lib/bebop_simulator/waypoint_example
+Symlinking /home/carlos/bebop_ws/devel/lib/bebop_simulator/quaternion_to_rpy
+Symlinking /home/carlos/bebop_ws/devel/lib/bebop_simulator/position_controller_with_bebop_node
+Symlinking /home/carlos/bebop_ws/devel/lib/bebop_simulator/position_controller_node
+Symlinking /home/carlos/bebop_ws/devel/lib/bebop_simulator/hovering_example
+Symlinking /home/carlos/bebop_ws/devel/lib/pkgconfig/bebop_simulator.pc
+Symlinking /home/carlos/bebop_ws/devel/share/bebop_simulator/cmake/bebop_simulatorConfig.cmake
+Symlinking /home/carlos/bebop_ws/devel/share/bebop_simulator/cmake/bebop_simulatorConfig-version.cmake

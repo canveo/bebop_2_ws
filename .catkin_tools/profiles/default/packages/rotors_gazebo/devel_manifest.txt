@@ -1,0 +1,8 @@
+rotors_simulator/rotors_gazebo
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/cmake.lock /home/carlos/bebop_ws/devel/./cmake.lock
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc /home/carlos/bebop_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file /home/carlos/bebop_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher /home/carlos/bebop_ws/devel/lib/rotors_gazebo/waypoint_publisher
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example /home/carlos/bebop_ws/devel/lib/rotors_gazebo/hovering_example
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake /home/carlos/bebop_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+/home/carlos/bebop_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake /home/carlos/bebop_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake

@@ -1,0 +1,1 @@
+/home/carlos/bebop_ws/devel/.private/planning_msgs/lib/pkgconfig/planning_msgs.pc

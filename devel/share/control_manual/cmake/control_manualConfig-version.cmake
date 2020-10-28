@@ -1,0 +1,1 @@
+/home/carlos/bebop_ws/devel/.private/control_manual/share/control_manual/cmake/control_manualConfig-version.cmake

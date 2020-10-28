@@ -1,0 +1,4 @@
+Symlinking /home/carlos/bebop_ws/devel/lib/pkgconfig/rotors_evaluation.pc
+Symlinking /home/carlos/bebop_ws/devel/lib/python2.7/dist-packages/rosbag_tools/__init__.py
+Symlinking /home/carlos/bebop_ws/devel/share/rotors_evaluation/cmake/rotors_evaluationConfig.cmake
+Symlinking /home/carlos/bebop_ws/devel/share/rotors_evaluation/cmake/rotors_evaluationConfig-version.cmake

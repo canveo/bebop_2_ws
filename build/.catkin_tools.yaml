@@ -1,0 +1,6 @@
+devel_space: /home/carlos/bebop_ws/devel
+install: false
+install_space: /home/carlos/bebop_ws/install
+profile: default
+source_space: /home/carlos/bebop_ws/src
+workspace: /home/carlos/bebop_ws

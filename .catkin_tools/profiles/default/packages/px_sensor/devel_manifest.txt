@@ -1,0 +1,5 @@
+px_sensor
+/home/carlos/bebop_ws/devel/.private/px_sensor/cmake.lock /home/carlos/bebop_ws/devel/./cmake.lock
+/home/carlos/bebop_ws/devel/.private/px_sensor/lib/pkgconfig/px_sensor.pc /home/carlos/bebop_ws/devel/lib/pkgconfig/px_sensor.pc
+/home/carlos/bebop_ws/devel/.private/px_sensor/share/px_sensor/cmake/px_sensorConfig.cmake /home/carlos/bebop_ws/devel/share/px_sensor/cmake/px_sensorConfig.cmake
+/home/carlos/bebop_ws/devel/.private/px_sensor/share/px_sensor/cmake/px_sensorConfig-version.cmake /home/carlos/bebop_ws/devel/share/px_sensor/cmake/px_sensorConfig-version.cmake

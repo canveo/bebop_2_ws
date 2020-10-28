@@ -1,0 +1,1 @@
+/home/carlos/bebop_ws/devel/.private/px_sensor/lib/pkgconfig/px_sensor.pc
