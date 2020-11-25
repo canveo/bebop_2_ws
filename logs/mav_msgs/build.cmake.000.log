@@ -1,6 +1,6 @@
 Not searching for unused variables given on the command line.
-[36m--[0m The C compiler identification is GNU 5.4.0
-[36m--[0m The CXX compiler identification is GNU 5.4.0
+[36m--[0m The C compiler identification is GNU 5.5.0
+[36m--[0m The CXX compiler identification is GNU 5.5.0
 [36m--[0m Check for working C compiler: /usr/bin/cc
 [36m--[0m Check for working C compiler: /usr/bin/cc -- works
 [36m--[0m Detecting C compiler ABI info
@@ -36,26 +36,39 @@ Not searching for unused variables given on the command line.
 [36m--[0m Looking for pthread_create in pthread - found
 [36m--[0m Found Threads: TRUE
 [36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
-[36m--[0m catkin 0.7.20
+[36m--[0m catkin 0.7.29
 [36m--[0m BUILD_SHARED_LIBS is on
-[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
-[36m--[0m Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1")
-[36m--[0m Checking for module 'eigen3'
-[36m--[0m   Found eigen3, version 3.2.92
-[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/cmake_modules/cmake/Modules/FindEigen.cmake:62 (message):
-  The FindEigen.cmake Module in the cmake_modules package is deprecated.
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:76 (find_package):
+  Could not find a package configuration file provided by "cmake_modules"
+  with any of the following names:
 
-  Please use the FindEigen3.cmake Module provided with Eigen.  Change
-  instances of find_package(Eigen) to find_package(Eigen3).  Check the
-  FindEigen3.cmake Module for the resulting CMake variable names.
+    cmake_modulesConfig.cmake
+    cmake_modules-config.cmake
 
+  Add the installation prefix of "cmake_modules" to CMAKE_PREFIX_PATH or set
+  "cmake_modules_DIR" to a directory containing one of the above files.  If
+  "cmake_modules" provides a separate development package or SDK, be sure it
+  has been installed.
 [36mCall Stack (most recent call first):[0m
-  CMakeLists.txt:7 (find_package)
+  CMakeLists.txt:4 (find_package)
 
 
-[36m--[0m Found Eigen: /usr/include/eigen3
-[36m--[0m Eigen found (include: /usr/include/eigen3)
-[36m--[0m mav_msgs: 10 messages, 0 services
-[36m--[0m Configuring done
-[36m--[0m Generating done
-[36m--[0m Build files have been written to: /home/carlos/bebop_ws/build/mav_msgs
+[36m--[0m Could not find the required component 'cmake_modules'. The following CMake error indicates that you either need to install the package with the same name or change your environment so that it can be found.
+[31m[1mCMake Error[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by "cmake_modules"
+  with any of the following names:
+
+    cmake_modulesConfig.cmake
+    cmake_modules-config.cmake
+
+  Add the installation prefix of "cmake_modules" to CMAKE_PREFIX_PATH or set
+  "cmake_modules_DIR" to a directory containing one of the above files.  If
+  "cmake_modules" provides a separate development package or SDK, be sure it
+  has been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:4 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/carlos/bebop_ws/build/mav_msgs/CMakeFiles/CMakeOutput.log".
+See also "/home/carlos/bebop_ws/build/mav_msgs/CMakeFiles/CMakeError.log".

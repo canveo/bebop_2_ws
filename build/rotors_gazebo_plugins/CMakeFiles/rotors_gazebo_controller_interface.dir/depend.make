@@ -6,9 +6,6 @@ CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interfac
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/common.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_controller_interface.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_controller_interface.cpp
-CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/boost_161_condition_variable.h
-CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Quaternion.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Vector3.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
@@ -26,6 +23,7 @@ CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interfac
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/exceptions.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/forwards.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/init.h
+CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/internal/condition_variable.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/macros.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/master.h
 CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o: /opt/ros/kinetic/include/ros/message.h

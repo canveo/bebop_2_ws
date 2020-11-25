@@ -270,32 +270,6 @@ _rotors_comm_generate_messages_check_deps_Octomap/fast:
 .PHONY : _rotors_comm_generate_messages_check_deps_Octomap/fast
 
 #=============================================================================
-# Target rules for targets named rotors_comm_generate_messages_lisp
-
-# Build rule for target.
-rotors_comm_generate_messages_lisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 rotors_comm_generate_messages_lisp
-.PHONY : rotors_comm_generate_messages_lisp
-
-# fast build rule for target.
-rotors_comm_generate_messages_lisp/fast:
-	$(MAKE) -f CMakeFiles/rotors_comm_generate_messages_lisp.dir/build.make CMakeFiles/rotors_comm_generate_messages_lisp.dir/build
-.PHONY : rotors_comm_generate_messages_lisp/fast
-
-#=============================================================================
-# Target rules for targets named _rotors_comm_generate_messages_check_deps_WindSpeed
-
-# Build rule for target.
-_rotors_comm_generate_messages_check_deps_WindSpeed: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 _rotors_comm_generate_messages_check_deps_WindSpeed
-.PHONY : _rotors_comm_generate_messages_check_deps_WindSpeed
-
-# fast build rule for target.
-_rotors_comm_generate_messages_check_deps_WindSpeed/fast:
-	$(MAKE) -f CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/build.make CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/build
-.PHONY : _rotors_comm_generate_messages_check_deps_WindSpeed/fast
-
-#=============================================================================
 # Target rules for targets named geometry_msgs_generate_messages_py
 
 # Build rule for target.
@@ -335,19 +309,6 @@ octomap_msgs_generate_messages_nodejs/fast:
 .PHONY : octomap_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
-# Target rules for targets named geometry_msgs_generate_messages_cpp
-
-# Build rule for target.
-geometry_msgs_generate_messages_cpp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 geometry_msgs_generate_messages_cpp
-.PHONY : geometry_msgs_generate_messages_cpp
-
-# fast build rule for target.
-geometry_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
-.PHONY : geometry_msgs_generate_messages_cpp/fast
-
-#=============================================================================
 # Target rules for targets named std_msgs_generate_messages_cpp
 
 # Build rule for target.
@@ -361,17 +322,17 @@ std_msgs_generate_messages_cpp/fast:
 .PHONY : std_msgs_generate_messages_cpp/fast
 
 #=============================================================================
-# Target rules for targets named geometry_msgs_generate_messages_eus
+# Target rules for targets named geometry_msgs_generate_messages_cpp
 
 # Build rule for target.
-geometry_msgs_generate_messages_eus: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 geometry_msgs_generate_messages_eus
-.PHONY : geometry_msgs_generate_messages_eus
+geometry_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 geometry_msgs_generate_messages_cpp
+.PHONY : geometry_msgs_generate_messages_cpp
 
 # fast build rule for target.
-geometry_msgs_generate_messages_eus/fast:
-	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
-.PHONY : geometry_msgs_generate_messages_eus/fast
+geometry_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
+.PHONY : geometry_msgs_generate_messages_cpp/fast
 
 #=============================================================================
 # Target rules for targets named tests
@@ -478,17 +439,30 @@ octomap_msgs_generate_messages_eus/fast:
 .PHONY : octomap_msgs_generate_messages_eus/fast
 
 #=============================================================================
-# Target rules for targets named rotors_comm_generate_messages
+# Target rules for targets named std_msgs_generate_messages_nodejs
 
 # Build rule for target.
-rotors_comm_generate_messages: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 rotors_comm_generate_messages
-.PHONY : rotors_comm_generate_messages
+std_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 std_msgs_generate_messages_nodejs
+.PHONY : std_msgs_generate_messages_nodejs
 
 # fast build rule for target.
-rotors_comm_generate_messages/fast:
-	$(MAKE) -f CMakeFiles/rotors_comm_generate_messages.dir/build.make CMakeFiles/rotors_comm_generate_messages.dir/build
-.PHONY : rotors_comm_generate_messages/fast
+std_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
+.PHONY : std_msgs_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named geometry_msgs_generate_messages_eus
+
+# Build rule for target.
+geometry_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 geometry_msgs_generate_messages_eus
+.PHONY : geometry_msgs_generate_messages_eus
+
+# fast build rule for target.
+geometry_msgs_generate_messages_eus/fast:
+	$(MAKE) -f CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
+.PHONY : geometry_msgs_generate_messages_eus/fast
 
 #=============================================================================
 # Target rules for targets named geometry_msgs_generate_messages_nodejs
@@ -517,17 +491,17 @@ clean_test_results/fast:
 .PHONY : clean_test_results/fast
 
 #=============================================================================
-# Target rules for targets named std_msgs_generate_messages_nodejs
+# Target rules for targets named rotors_comm_generate_messages
 
 # Build rule for target.
-std_msgs_generate_messages_nodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 std_msgs_generate_messages_nodejs
-.PHONY : std_msgs_generate_messages_nodejs
+rotors_comm_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rotors_comm_generate_messages
+.PHONY : rotors_comm_generate_messages
 
 # fast build rule for target.
-std_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
-.PHONY : std_msgs_generate_messages_nodejs/fast
+rotors_comm_generate_messages/fast:
+	$(MAKE) -f CMakeFiles/rotors_comm_generate_messages.dir/build.make CMakeFiles/rotors_comm_generate_messages.dir/build
+.PHONY : rotors_comm_generate_messages/fast
 
 #=============================================================================
 # Target rules for targets named rotors_comm_genlisp
@@ -554,6 +528,32 @@ std_msgs_generate_messages_eus: cmake_check_build_system
 std_msgs_generate_messages_eus/fast:
 	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_eus.dir/build.make CMakeFiles/std_msgs_generate_messages_eus.dir/build
 .PHONY : std_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named rotors_comm_generate_messages_lisp
+
+# Build rule for target.
+rotors_comm_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 rotors_comm_generate_messages_lisp
+.PHONY : rotors_comm_generate_messages_lisp
+
+# fast build rule for target.
+rotors_comm_generate_messages_lisp/fast:
+	$(MAKE) -f CMakeFiles/rotors_comm_generate_messages_lisp.dir/build.make CMakeFiles/rotors_comm_generate_messages_lisp.dir/build
+.PHONY : rotors_comm_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named _rotors_comm_generate_messages_check_deps_WindSpeed
+
+# Build rule for target.
+_rotors_comm_generate_messages_check_deps_WindSpeed: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _rotors_comm_generate_messages_check_deps_WindSpeed
+.PHONY : _rotors_comm_generate_messages_check_deps_WindSpeed
+
+# fast build rule for target.
+_rotors_comm_generate_messages_check_deps_WindSpeed/fast:
+	$(MAKE) -f CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/build.make CMakeFiles/_rotors_comm_generate_messages_check_deps_WindSpeed.dir/build
+.PHONY : _rotors_comm_generate_messages_check_deps_WindSpeed/fast
 
 #=============================================================================
 # Target rules for targets named octomap_msgs_generate_messages_lisp
@@ -608,19 +608,6 @@ _rotors_comm_generate_messages_check_deps_RecordRosbag/fast:
 .PHONY : _rotors_comm_generate_messages_check_deps_RecordRosbag/fast
 
 #=============================================================================
-# Target rules for targets named gmock
-
-# Build rule for target.
-gmock: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 gmock
-.PHONY : gmock
-
-# fast build rule for target.
-gmock/fast:
-	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/build
-.PHONY : gmock/fast
-
-#=============================================================================
 # Target rules for targets named gmock_main
 
 # Build rule for target.
@@ -634,17 +621,17 @@ gmock_main/fast:
 .PHONY : gmock_main/fast
 
 #=============================================================================
-# Target rules for targets named gtest
+# Target rules for targets named gmock
 
 # Build rule for target.
-gtest: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 gtest
-.PHONY : gtest
+gmock: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 gmock
+.PHONY : gmock
 
 # fast build rule for target.
-gtest/fast:
-	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/build
-.PHONY : gtest/fast
+gmock/fast:
+	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/build
+.PHONY : gmock/fast
 
 #=============================================================================
 # Target rules for targets named gtest_main
@@ -658,6 +645,19 @@ gtest_main: cmake_check_build_system
 gtest_main/fast:
 	$(MAKE) -f gtest/gtest/CMakeFiles/gtest_main.dir/build.make gtest/gtest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
+
+#=============================================================================
+# Target rules for targets named gtest
+
+# Build rule for target.
+gtest: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 gtest
+.PHONY : gtest
+
+# fast build rule for target.
+gtest/fast:
+	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/build
+.PHONY : gtest/fast
 
 # Help Target
 help:
@@ -678,15 +678,12 @@ help:
 	@echo "... rotors_comm_generate_messages_nodejs"
 	@echo "... rotors_comm_generate_messages_cpp"
 	@echo "... _rotors_comm_generate_messages_check_deps_Octomap"
-	@echo "... rotors_comm_generate_messages_lisp"
-	@echo "... _rotors_comm_generate_messages_check_deps_WindSpeed"
 	@echo "... geometry_msgs_generate_messages_py"
 	@echo "... octomap_msgs_generate_messages_cpp"
 	@echo "... test"
 	@echo "... octomap_msgs_generate_messages_nodejs"
-	@echo "... geometry_msgs_generate_messages_cpp"
 	@echo "... std_msgs_generate_messages_cpp"
-	@echo "... geometry_msgs_generate_messages_eus"
+	@echo "... geometry_msgs_generate_messages_cpp"
 	@echo "... tests"
 	@echo "... rotors_comm_generate_messages_eus"
 	@echo "... download_extra_data"
@@ -695,21 +692,24 @@ help:
 	@echo "... doxygen"
 	@echo "... run_tests"
 	@echo "... octomap_msgs_generate_messages_eus"
-	@echo "... rotors_comm_generate_messages"
+	@echo "... std_msgs_generate_messages_nodejs"
+	@echo "... geometry_msgs_generate_messages_eus"
 	@echo "... geometry_msgs_generate_messages_nodejs"
 	@echo "... clean_test_results"
-	@echo "... std_msgs_generate_messages_nodejs"
+	@echo "... rotors_comm_generate_messages"
 	@echo "... rotors_comm_genlisp"
 	@echo "... std_msgs_generate_messages_eus"
+	@echo "... rotors_comm_generate_messages_lisp"
+	@echo "... _rotors_comm_generate_messages_check_deps_WindSpeed"
 	@echo "... install"
 	@echo "... octomap_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_py"
 	@echo "... octomap_msgs_generate_messages_py"
 	@echo "... _rotors_comm_generate_messages_check_deps_RecordRosbag"
-	@echo "... gmock"
 	@echo "... gmock_main"
-	@echo "... gtest"
+	@echo "... gmock"
 	@echo "... gtest_main"
+	@echo "... gtest"
 .PHONY : help
 
 

@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/bebop_msgs:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/bebop_msgs"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/bebop_msgs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export LD_LIBRARY_PATH="/home/carlos/bebop_ws/devel/.private/bebop_msgs/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/carlos/bebop_ws/devel/.private/bebop_msgs/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD='/home/carlos/bebop_ws/build/bebop_msgs'
+export PYTHONPATH="/home/carlos/bebop_ws/devel/.private/bebop_msgs/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/bebop_autonomy/bebop_msgs:$ROS_PACKAGE_PATH"

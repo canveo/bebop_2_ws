@@ -8,6 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/px_sensor:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/px_sensor"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/px_sensor/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export PWD='/home/carlos/bebop_ws/build/px_sensor'
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/px_sensor:$ROS_PACKAGE_PATH"

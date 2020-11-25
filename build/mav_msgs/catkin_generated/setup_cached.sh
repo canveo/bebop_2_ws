@@ -8,6 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/mav_msgs:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/mav_msgs"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/mav_msgs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export PWD='/home/carlos/bebop_ws/build/mav_msgs'
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/mav_comm/mav_msgs:$ROS_PACKAGE_PATH"

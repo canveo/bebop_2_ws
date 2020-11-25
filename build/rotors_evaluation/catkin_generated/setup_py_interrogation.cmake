@@ -1,3 +1,4 @@
+set(rotors_evaluation_SETUP_PY_SETUP_MODULE "distutils.core")
 set(rotors_evaluation_SETUP_PY_VERSION "2.0.1")
 set(rotors_evaluation_SETUP_PY_SCRIPTS "")
 set(rotors_evaluation_SETUP_PY_PACKAGES "rosbag_tools")

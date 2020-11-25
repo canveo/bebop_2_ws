@@ -8,6 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/bebop_tools:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/bebop_tools"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/bebop_tools/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export PWD='/home/carlos/bebop_ws/build/bebop_tools'
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/bebop_autonomy/bebop_tools:$ROS_PACKAGE_PATH"

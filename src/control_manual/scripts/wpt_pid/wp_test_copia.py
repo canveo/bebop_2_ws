@@ -168,7 +168,7 @@ class Controller:
                 # print "Tuned parameters kp kd for alt", self.alt_pid.kp,self.alt_pid.kd
                 # print ".....Waypoint",self.target_count-1,"Reached"
                 # print " ........Chaning Waypoint!"
-                print("Cambio de WAypoint")
+                print("Cambio de Waypoint")
 
                 self.msgcomd(0, 0, 0)
                 rospy.sleep(1)

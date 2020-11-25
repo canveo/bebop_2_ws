@@ -34,9 +34,6 @@ CMakeFiles/position_controller_with_bebop_node.dir/src/nodes/position_controller
  /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/default_topics.h
  /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/default_values.h
  /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/eigen_mav_msgs.h
- /opt/ros/kinetic/include/boost_161_condition_variable.h
- /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
- /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
  /opt/ros/kinetic/include/geometry_msgs/Point.h
  /opt/ros/kinetic/include/geometry_msgs/PointStamped.h
  /opt/ros/kinetic/include/geometry_msgs/Pose.h
@@ -66,6 +63,7 @@ CMakeFiles/position_controller_with_bebop_node.dir/src/nodes/position_controller
  /opt/ros/kinetic/include/ros/exceptions.h
  /opt/ros/kinetic/include/ros/forwards.h
  /opt/ros/kinetic/include/ros/init.h
+ /opt/ros/kinetic/include/ros/internal/condition_variable.h
  /opt/ros/kinetic/include/ros/macros.h
  /opt/ros/kinetic/include/ros/master.h
  /opt/ros/kinetic/include/ros/message.h

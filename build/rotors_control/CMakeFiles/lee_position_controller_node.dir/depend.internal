@@ -20,9 +20,6 @@ CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_no
  /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/include/rotors_control/parameters_ros.h
  /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.cpp
  /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
- /opt/ros/kinetic/include/boost_161_condition_variable.h
- /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
- /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
  /opt/ros/kinetic/include/geometry_msgs/Point.h
  /opt/ros/kinetic/include/geometry_msgs/Pose.h
  /opt/ros/kinetic/include/geometry_msgs/PoseStamped.h
@@ -49,6 +46,7 @@ CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_no
  /opt/ros/kinetic/include/ros/exceptions.h
  /opt/ros/kinetic/include/ros/forwards.h
  /opt/ros/kinetic/include/ros/init.h
+ /opt/ros/kinetic/include/ros/internal/condition_variable.h
  /opt/ros/kinetic/include/ros/macros.h
  /opt/ros/kinetic/include/ros/master.h
  /opt/ros/kinetic/include/ros/message.h

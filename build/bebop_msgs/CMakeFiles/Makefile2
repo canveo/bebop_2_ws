@@ -188,6 +188,38 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMass
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir
+
+# All Build rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/depend
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged"
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule
+
+# Convenience name for target.
+_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule
+
+.PHONY : _bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged
+
+# clean rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/bebop_msgs_gencpp.dir
 
 # All Build rule for target.
@@ -412,11 +444,44 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3NetworkStateA
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir
+
+# All Build rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/depend
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo"
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule
+
+# Convenience name for target.
+_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule
+
+.PHONY : _bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo
+
+# clean rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/bebop_msgs_generate_messages_nodejs.dir
 
 # All Build rule for target.
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateNumberOfSatelliteChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMassStorageInfoStateListChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateHomeTypeAvailabilityChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMavlinkPlayErrorStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStateVideoStateChangedV2.dir/all
@@ -436,7 +501,6 @@ CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_g
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateLastChargeRateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AntiflickeringStatemodeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatures.dir/all
-CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonOverHeatStateOverHeatChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3NetworkStateWifiAuthChannelListChanged.dir/all
@@ -446,10 +510,10 @@ CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_g
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateGpsLocationChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationRequiredState.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVelocityRange.dir/all
+CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatteryStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAltitudeChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonAccessoryStateAccessoryConfigModificationEnabled.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAlertStateChanged.dir/all
@@ -457,7 +521,7 @@ CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_g
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AccessoryStateConnectedAccessories.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChangedV2.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaStreamingStateVideoStreamModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMissionItemExecuted.dir/all
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonHeadlightsStateintensityChanged.dir/all
@@ -518,38 +582,6 @@ CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir
-
-# All Build rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/depend
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo"
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule
-
-# Convenience name for target.
-_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/rule
-
-.PHONY : _bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo
-
-# clean rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateChargingInfo.dir/clean
 
 .PHONY : clean
 
@@ -1002,38 +1034,6 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatu
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir
-
-# All Build rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/depend
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged"
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule
-
-# Convenience name for target.
-_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule
-
-.PHONY : _bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged
-
-# clean rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir
 
 # All Build rule for target.
@@ -1386,6 +1386,70 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVe
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/std_msgs_generate_messages_py.dir
+
+# All Build rule for target.
+CMakeFiles/std_msgs_generate_messages_py.dir/all:
+	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/depend
+	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_py"
+.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/std_msgs_generate_messages_py.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_py.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+std_msgs_generate_messages_py: CMakeFiles/std_msgs_generate_messages_py.dir/rule
+
+.PHONY : std_msgs_generate_messages_py
+
+# clean rule for target.
+CMakeFiles/std_msgs_generate_messages_py.dir/clean:
+	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/clean
+.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/std_msgs_generate_messages_py.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir
+
+# All Build rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/depend
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion"
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule
+
+# Convenience name for target.
+_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule
+
+.PHONY : _bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion
+
+# clean rule for target.
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/download_extra_data.dir
 
 # All Build rule for target.
@@ -1455,6 +1519,7 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatt
 # All Build rule for target.
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateNumberOfSatelliteChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMassStorageInfoStateListChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateHomeTypeAvailabilityChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMavlinkPlayErrorStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStateVideoStateChangedV2.dir/all
@@ -1474,7 +1539,6 @@ CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_gener
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateLastChargeRateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AntiflickeringStatemodeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatures.dir/all
-CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonOverHeatStateOverHeatChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3NetworkStateWifiAuthChannelListChanged.dir/all
@@ -1484,11 +1548,11 @@ CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_gener
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateGpsLocationChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationRequiredState.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVelocityRange.dir/all
+CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/std_msgs_generate_messages_py.dir/all
+CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatteryStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAltitudeChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/std_msgs_generate_messages_py.dir/all
-CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonAccessoryStateAccessoryConfigModificationEnabled.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAlertStateChanged.dir/all
@@ -1496,7 +1560,7 @@ CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_gener
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AccessoryStateConnectedAccessories.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChangedV2.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaStreamingStateVideoStreamModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMissionItemExecuted.dir/all
 CMakeFiles/bebop_msgs_generate_messages_py.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonHeadlightsStateintensityChanged.dir/all
@@ -1656,70 +1720,6 @@ clean: CMakeFiles/clean_test_results.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/std_msgs_generate_messages_py.dir
-
-# All Build rule for target.
-CMakeFiles/std_msgs_generate_messages_py.dir/all:
-	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/depend
-	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target std_msgs_generate_messages_py"
-.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/std_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/std_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-std_msgs_generate_messages_py: CMakeFiles/std_msgs_generate_messages_py.dir/rule
-
-.PHONY : std_msgs_generate_messages_py
-
-# clean rule for target.
-CMakeFiles/std_msgs_generate_messages_py.dir/clean:
-	$(MAKE) -f CMakeFiles/std_msgs_generate_messages_py.dir/build.make CMakeFiles/std_msgs_generate_messages_py.dir/clean
-.PHONY : CMakeFiles/std_msgs_generate_messages_py.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/std_msgs_generate_messages_py.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir
-
-# All Build rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/depend
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion"
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule
-
-# Convenience name for target.
-_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/rule
-
-.PHONY : _bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion
-
-# clean rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir
 
 # All Build rule for target.
@@ -1848,38 +1848,6 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateMax
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/doxygen.dir
-
-# All Build rule for target.
-CMakeFiles/doxygen.dir/all:
-	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/depend
-	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target doxygen"
-.PHONY : CMakeFiles/doxygen.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/doxygen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/doxygen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/doxygen.dir/rule
-
-# Convenience name for target.
-doxygen: CMakeFiles/doxygen.dir/rule
-
-.PHONY : doxygen
-
-# clean rule for target.
-CMakeFiles/doxygen.dir/clean:
-	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/clean
-.PHONY : CMakeFiles/doxygen.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/doxygen.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/run_tests.dir
 
 # All Build rule for target.
@@ -1976,6 +1944,38 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordSt
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/doxygen.dir
+
+# All Build rule for target.
+CMakeFiles/doxygen.dir/all:
+	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/depend
+	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target doxygen"
+.PHONY : CMakeFiles/doxygen.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/doxygen.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/doxygen.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : CMakeFiles/doxygen.dir/rule
+
+# Convenience name for target.
+doxygen: CMakeFiles/doxygen.dir/rule
+
+.PHONY : doxygen
+
+# clean rule for target.
+CMakeFiles/doxygen.dir/clean:
+	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/clean
+.PHONY : CMakeFiles/doxygen.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/doxygen.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir
 
 # All Build rule for target.
@@ -2008,34 +2008,34 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingState
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir
+# Target rules for target CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir
 
 # All Build rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/depend
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged"
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/depend
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target _bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged"
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule: cmake_check_build_system
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule
 
 # Convenience name for target.
-_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/rule
+_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/rule
 
-.PHONY : _bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged
-
-# clean rule for target.
-CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean:
-	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
-.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
+.PHONY : _bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged
 
 # clean rule for target.
-clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/clean
+CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean:
+	$(MAKE) -f CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/build.make CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
+.PHONY : CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/clean
 
 .PHONY : clean
 
@@ -2365,6 +2365,7 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateCoun
 # All Build rule for target.
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateNumberOfSatelliteChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMassStorageInfoStateListChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateHomeTypeAvailabilityChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMavlinkPlayErrorStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStateVideoStateChangedV2.dir/all
@@ -2384,7 +2385,6 @@ CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateLastChargeRateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AntiflickeringStatemodeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatures.dir/all
-CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonOverHeatStateOverHeatChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/std_msgs_generate_messages_eus.dir/all
@@ -2395,10 +2395,10 @@ CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateGpsLocationChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationRequiredState.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVelocityRange.dir/all
+CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatteryStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAltitudeChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonAccessoryStateAccessoryConfigModificationEnabled.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAlertStateChanged.dir/all
@@ -2406,7 +2406,7 @@ CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AccessoryStateConnectedAccessories.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChangedV2.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaStreamingStateVideoStreamModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMissionItemExecuted.dir/all
 CMakeFiles/bebop_msgs_generate_messages_eus.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonHeadlightsStateintensityChanged.dir/all
@@ -2923,6 +2923,7 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingState
 # All Build rule for target.
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateNumberOfSatelliteChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMassStorageInfoStateListChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateHomeTypeAvailabilityChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMavlinkPlayErrorStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStateVideoStateChangedV2.dir/all
@@ -2942,7 +2943,6 @@ CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_gen
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateLastChargeRateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AntiflickeringStatemodeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatures.dir/all
-CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonOverHeatStateOverHeatChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3NetworkStateWifiAuthChannelListChanged.dir/all
@@ -2952,10 +2952,10 @@ CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_gen
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateGpsLocationChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationRequiredState.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVelocityRange.dir/all
+CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatteryStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAltitudeChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonAccessoryStateAccessoryConfigModificationEnabled.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAlertStateChanged.dir/all
@@ -2963,7 +2963,7 @@ CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_gen
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AccessoryStateConnectedAccessories.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChangedV2.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaStreamingStateVideoStreamModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMissionItemExecuted.dir/all
 CMakeFiles/bebop_msgs_generate_messages_lisp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonHeadlightsStateintensityChanged.dir/all
@@ -3257,6 +3257,7 @@ clean: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingState
 # All Build rule for target.
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateNumberOfSatelliteChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateMassStorageInfoStateListChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3GPSStateHomeTypeAvailabilityChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMavlinkPlayErrorStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/std_msgs_generate_messages_cpp.dir/all
@@ -3277,7 +3278,6 @@ CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonChargerStateLastChargeRateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AntiflickeringStatemodeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PROStateFeatures.dir/all
-CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAttitudeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonOverHeatStateOverHeatChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3NetworkStateWifiAuthChannelListChanged.dir/all
@@ -3287,10 +3287,10 @@ CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateGpsLocationChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationRequiredState.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3CameraStateVelocityRange.dir/all
+CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateBatteryStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCalibrationStateMagnetoCalibrationStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAltitudeChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonARLibsVersionsStateSkyControllerLibARCommandsVersion.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonCommonStateProductModel.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonAccessoryStateAccessoryConfigModificationEnabled.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAlertStateChanged.dir/all
@@ -3298,7 +3298,7 @@ CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_gene
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3AccessoryStateConnectedAccessories.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChangedV2.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateSpeedChanged.dir/all
-CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3PilotingStateAutoTakeOffModeChanged.dir/all
+CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaRecordStatePictureStateChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_Ardrone3MediaStreamingStateVideoStreamModeChanged.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonMavlinkStateMissionItemExecuted.dir/all
 CMakeFiles/bebop_msgs_generate_messages_cpp.dir/all: CMakeFiles/_bebop_msgs_generate_messages_check_deps_CommonHeadlightsStateintensityChanged.dir/all
@@ -3667,8 +3667,8 @@ gtest/all: gtest/gtest/all
 .PHONY : gtest/all
 
 # Convenience name for "clean" pass in the directory.
-gtest/clean: gtest/CMakeFiles/gmock.dir/clean
 gtest/clean: gtest/CMakeFiles/gmock_main.dir/clean
+gtest/clean: gtest/CMakeFiles/gmock.dir/clean
 gtest/clean: gtest/gtest/clean
 
 .PHONY : gtest/clean
@@ -3677,38 +3677,6 @@ gtest/clean: gtest/gtest/clean
 gtest/preinstall: gtest/gtest/preinstall
 
 .PHONY : gtest/preinstall
-
-#=============================================================================
-# Target rules for target gtest/CMakeFiles/gmock.dir
-
-# All Build rule for target.
-gtest/CMakeFiles/gmock.dir/all:
-	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/depend
-	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num=98 "Built target gmock"
-.PHONY : gtest/CMakeFiles/gmock.dir/all
-
-# Build rule for subdir invocation for target.
-gtest/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : gtest/CMakeFiles/gmock.dir/rule
-
-# Convenience name for target.
-gmock: gtest/CMakeFiles/gmock.dir/rule
-
-.PHONY : gmock
-
-# clean rule for target.
-gtest/CMakeFiles/gmock.dir/clean:
-	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/clean
-.PHONY : gtest/CMakeFiles/gmock.dir/clean
-
-# clean rule for target.
-clean: gtest/CMakeFiles/gmock.dir/clean
-
-.PHONY : clean
 
 #=============================================================================
 # Target rules for target gtest/CMakeFiles/gmock_main.dir
@@ -3743,6 +3711,38 @@ clean: gtest/CMakeFiles/gmock_main.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target gtest/CMakeFiles/gmock.dir
+
+# All Build rule for target.
+gtest/CMakeFiles/gmock.dir/all:
+	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/depend
+	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num=98 "Built target gmock"
+.PHONY : gtest/CMakeFiles/gmock.dir/all
+
+# Build rule for subdir invocation for target.
+gtest/CMakeFiles/gmock.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gmock.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : gtest/CMakeFiles/gmock.dir/rule
+
+# Convenience name for target.
+gmock: gtest/CMakeFiles/gmock.dir/rule
+
+.PHONY : gmock
+
+# clean rule for target.
+gtest/CMakeFiles/gmock.dir/clean:
+	$(MAKE) -f gtest/CMakeFiles/gmock.dir/build.make gtest/CMakeFiles/gmock.dir/clean
+.PHONY : gtest/CMakeFiles/gmock.dir/clean
+
+# clean rule for target.
+clean: gtest/CMakeFiles/gmock.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Directory level rules for directory gtest/gtest
 
 # Convenience name for "all" pass in the directory.
@@ -3751,8 +3751,8 @@ gtest/gtest/all:
 .PHONY : gtest/gtest/all
 
 # Convenience name for "clean" pass in the directory.
-gtest/gtest/clean: gtest/gtest/CMakeFiles/gtest.dir/clean
 gtest/gtest/clean: gtest/gtest/CMakeFiles/gtest_main.dir/clean
+gtest/gtest/clean: gtest/gtest/CMakeFiles/gtest.dir/clean
 
 .PHONY : gtest/gtest/clean
 
@@ -3760,38 +3760,6 @@ gtest/gtest/clean: gtest/gtest/CMakeFiles/gtest_main.dir/clean
 gtest/gtest/preinstall:
 
 .PHONY : gtest/gtest/preinstall
-
-#=============================================================================
-# Target rules for target gtest/gtest/CMakeFiles/gtest.dir
-
-# All Build rule for target.
-gtest/gtest/CMakeFiles/gtest.dir/all:
-	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/depend
-	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target gtest"
-.PHONY : gtest/gtest/CMakeFiles/gtest.dir/all
-
-# Build rule for subdir invocation for target.
-gtest/gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 gtest/gtest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
-.PHONY : gtest/gtest/CMakeFiles/gtest.dir/rule
-
-# Convenience name for target.
-gtest: gtest/gtest/CMakeFiles/gtest.dir/rule
-
-.PHONY : gtest
-
-# clean rule for target.
-gtest/gtest/CMakeFiles/gtest.dir/clean:
-	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/clean
-.PHONY : gtest/gtest/CMakeFiles/gtest.dir/clean
-
-# clean rule for target.
-clean: gtest/gtest/CMakeFiles/gtest.dir/clean
-
-.PHONY : clean
 
 #=============================================================================
 # Target rules for target gtest/gtest/CMakeFiles/gtest_main.dir
@@ -3822,6 +3790,38 @@ gtest/gtest/CMakeFiles/gtest_main.dir/clean:
 
 # clean rule for target.
 clean: gtest/gtest/CMakeFiles/gtest_main.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target gtest/gtest/CMakeFiles/gtest.dir
+
+# All Build rule for target.
+gtest/gtest/CMakeFiles/gtest.dir/all:
+	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/depend
+	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles --progress-num= "Built target gtest"
+.PHONY : gtest/gtest/CMakeFiles/gtest.dir/all
+
+# Build rule for subdir invocation for target.
+gtest/gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 gtest/gtest/CMakeFiles/gtest.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/carlos/bebop_ws/build/bebop_msgs/CMakeFiles 0
+.PHONY : gtest/gtest/CMakeFiles/gtest.dir/rule
+
+# Convenience name for target.
+gtest: gtest/gtest/CMakeFiles/gtest.dir/rule
+
+.PHONY : gtest
+
+# clean rule for target.
+gtest/gtest/CMakeFiles/gtest.dir/clean:
+	$(MAKE) -f gtest/gtest/CMakeFiles/gtest.dir/build.make gtest/gtest/CMakeFiles/gtest.dir/clean
+.PHONY : gtest/gtest/CMakeFiles/gtest.dir/clean
+
+# clean rule for target.
+clean: gtest/gtest/CMakeFiles/gtest.dir/clean
 
 .PHONY : clean
 

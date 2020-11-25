@@ -8,6 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/rotors_comm:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/rotors_comm"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/rotors_comm/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export PWD='/home/carlos/bebop_ws/build/rotors_comm'
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/rotors_simulator/rotors_comm:$ROS_PACKAGE_PATH"

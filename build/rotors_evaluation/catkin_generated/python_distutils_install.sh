@@ -9,7 +9,6 @@ if [ -n "$DESTDIR" ] ; then
             /bin/echo "otherwise python's distutils will bork things."
             exit 1
     esac
-    DESTDIR_ARG="--root=$DESTDIR"
 fi
 
 echo_and_run() { echo "+ $@" ; "$@" ; }
@@ -27,7 +26,8 @@ echo_and_run /usr/bin/env \
     CATKIN_BINARY_DIR="/home/carlos/bebop_ws/build/rotors_evaluation" \
     "/usr/bin/python2" \
     "/home/carlos/bebop_ws/src/rotors_simulator/rotors_evaluation/setup.py" \
+     \
     build --build-base "/home/carlos/bebop_ws/build/rotors_evaluation" \
     install \
-    $DESTDIR_ARG \
+    --root="${DESTDIR-/}" \
     --install-layout=deb --prefix="/home/carlos/bebop_ws/install" --install-scripts="/home/carlos/bebop_ws/install/bin"

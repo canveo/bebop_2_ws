@@ -19,9 +19,6 @@ CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_no
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/include/rotors_control/parameters_ros.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.cpp
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
-CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_condition_variable.h
-CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Pose.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/geometry_msgs/PoseStamped.h
@@ -48,6 +45,7 @@ CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_no
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/exceptions.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/forwards.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/init.h
+CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/internal/condition_variable.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/macros.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/master.h
 CMakeFiles/lee_position_controller_node.dir/src/nodes/lee_position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/message.h

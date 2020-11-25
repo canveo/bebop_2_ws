@@ -8,9 +8,6 @@ CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /home/car
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/motor_model.hpp
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp
-CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/boost_161_condition_variable.h
-CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Vector3.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -27,6 +24,7 @@ CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/exceptions.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/forwards.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/init.h
+CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/internal/condition_variable.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/macros.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/master.h
 CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o: /opt/ros/kinetic/include/ros/message.h

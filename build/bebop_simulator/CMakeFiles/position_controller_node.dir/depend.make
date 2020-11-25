@@ -32,9 +32,6 @@ CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/default_topics.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/default_values.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /home/carlos/bebop_ws/src/mav_comm/mav_msgs/include/mav_msgs/eigen_mav_msgs.h
-CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_condition_variable.h
-CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/gazebo_msgs/GetWorldProperties.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/gazebo_msgs/GetWorldPropertiesRequest.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/gazebo_msgs/GetWorldPropertiesResponse.h
@@ -67,6 +64,7 @@ CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/exceptions.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/forwards.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/init.h
+CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/internal/condition_variable.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/macros.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/master.h
 CMakeFiles/position_controller_node.dir/src/nodes/position_controller_node.cpp.o: /opt/ros/kinetic/include/ros/message.h

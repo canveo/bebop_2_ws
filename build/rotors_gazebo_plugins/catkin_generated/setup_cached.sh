@@ -8,6 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/carlos/bebop_ws/devel/.private/rotors_gazebo_plugins:$CMAKE_PREFIX_PATH"
-export PWD="/home/carlos/bebop_ws/build/rotors_gazebo_plugins"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/carlos/bebop_ws/devel/.private/rotors_gazebo_plugins/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export PWD='/home/carlos/bebop_ws/build/rotors_gazebo_plugins'
 export ROS_PACKAGE_PATH="/home/carlos/bebop_ws/src/rotors_simulator/rotors_gazebo_plugins:$ROS_PACKAGE_PATH"
