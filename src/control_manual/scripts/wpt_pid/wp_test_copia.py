@@ -43,7 +43,7 @@ class Controller:
         self.controller = PID()  # controller
         self.controller.setKp(kp)
         self.controller.setKi(ki)
-        self.controller.setKd(kd)
+        self.controller.setKd(kd) (Vx, Vy )
 
     
         self.controller.setSamplingTime(samplingTime)
